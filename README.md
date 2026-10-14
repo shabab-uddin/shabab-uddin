@@ -12,9 +12,9 @@
 
 ### Skills
 
-- **Web Development:** HTML, CSS, JavaScript, Node.js
+- **Web Development:** HTML, CSS, JavaScript, 
 - **DevOps & Cloud:** Linux, Git, GitHub, AWS, Docker
-- **Currently Learning:** Backend development and CI/CD
+- **Currently Learning:** Node.js
 
 ### Projects
 
