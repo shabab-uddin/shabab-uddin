@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Shabab Uddin 👋
 
-<!--
-**shabab-uddin/shabab-uddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Invertis University, Bareilly
+💻 Aspiring Full-Stack Developer | DevOps Enthusiast
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Full-Stack Web Development and DevOps.
+- 🐧 Practicing Linux, networking, and Git.
+- ☁️ Learning AWS, Docker, and CI/CD.
+- 🚀 Interested in building, deploying, and maintaining web applications.
+
+### Skills
+
+- **Web Development:** HTML, CSS, JavaScript, Node.js
+- **DevOps & Cloud:** Linux, Git, GitHub, AWS, Docker
+- **Currently Learning:** Backend development and CI/CD
+
+### Projects
+
+- Add your project repository links here.
+
+### Connect With Me
+
+- LinkedIn: [https://linkedin.com/in/shababuddin-322218323](https://linkedin.com/in/shababuddin-322218323)
+- GitHub: [https://github.com/shabab-uddin](https://github.com/shabab-uddin)
+
